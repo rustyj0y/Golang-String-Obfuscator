@@ -1,0 +1,1 @@
+# Golang-String-Obfuscator
