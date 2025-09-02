@@ -35,7 +35,7 @@ Pass your desired text as an argument to the program.
 The program will give you an output similar to this:
 
 ```cmd
-C:\users\RustJ0y\Desktop> RustyJ0yObf.exe del /f /q %temp%\*.*
+C:\users\RustyJ0y\Desktop> RustyJ0yObf.exe del /f /q %temp%\*.*
 
 myObfArray := []string{`desert`,`edit`,`lake`,` `,`/`,`focus`,` `,`/`,`quake`,` `,`Cloud`,`:`,`\`,`Utility`,
 `strong`,`explore`,`rare`,`speed`,`\`,`Hotel`,`Earth`,`Level`,`Lamp`,`Orange`,`World`,`~`,`1`,`\`,`Alert`,
